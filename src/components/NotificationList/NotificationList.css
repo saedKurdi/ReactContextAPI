@@ -1,0 +1,8 @@
+.notificationList {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-bottom: 80px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

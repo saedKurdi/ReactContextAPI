@@ -1,0 +1,9 @@
+.notification {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  height: 180px;
+  border: 1px solid springgreen;
+  align-items: center;
+  justify-content: center;
+}
